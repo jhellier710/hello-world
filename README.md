@@ -1,2 +1,3 @@
 # hello-world
 getting started on Git
+This is me figuring out how this stuff works...
